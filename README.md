@@ -20,4 +20,4 @@ however should be only restricted by the amount of samples used during optimizat
 
 For basic usage and more functionality demonstration have a look at the 
 [jupyter notebook](https://github.com/jgwiese/prob_model_variational/blob/main/image_learning.ipynb).
-You can also contact me for details regarding the model and the optimization objective derivation. 
+You could also contact me for details regarding the model and the optimization objective derivation. 
