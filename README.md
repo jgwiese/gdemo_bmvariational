@@ -1,4 +1,4 @@
-# demo of bayesian modeling using variational approach.
+# demo bayesian modeling variational
 The purpose of this project is to demonstrate the implementation and results of the optimization of a probabilistic model. Here the generative model
 consists out of a 2D latent variable that encodes for a 784 image vector. Gaussian distributions are used for the prior and conditional distributions.
 The model can be trained by using a variational distribution to approximate the posterior or by Monte Carlo importance sampling. The following figures
